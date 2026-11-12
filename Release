@@ -1,0 +1,11 @@
+Origin: CyberpunkOS
+Label: CyberpunkOS
+Suite: stable
+Codename: cyberpunkos
+Version: 1.11
+Architectures: all amd64
+Date: Thu, 12 Nov 2026 14:40:20 +0000
+Description: Mises à jour de CyberpunkOS
+SHA256:
+ 03e03ad63af00a87ee6dc773fc493cbf2314d6c7b93ed5f64c07c894206b1cd8 753 Packages
+ 9098e28146bc5c008eb11b5478617fa7f76c4974b5e436c29cc1f815a103c4da 546 Packages.gz

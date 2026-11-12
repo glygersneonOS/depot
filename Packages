@@ -1,0 +1,17 @@
+Package: cyberpunkos
+Version: 1.11
+Architecture: all
+Maintainer: CyberpunkOS <maj@cyberpunkos.glygersneonos>
+Installed-Size: 30688
+Depends: papirus-icon-theme, python3, qt6-style-kvantum, libnotify-bin, pkexec | policykit-1, qml-qt6, qml6-module-qtquick, qml6-module-qtquick-window
+Filename: ./cyberpunkos_1.11_all.deb
+Size: 28471972
+MD5sum: b9120ca5a27b6d30ab47458928290a2a
+SHA1: 03c7a877d43595b0c6a89a95b1eebb1941dfcdf6
+SHA256: b1a624c16fc626753647d4e5a6bd04f6bdfe7c23cdc5b1509cb08a9b72ad1f51
+Section: misc
+Priority: optional
+Description: Habillage et outils de CyberpunkOS
+ Thèmes Dark et Jour, icônes, fonds d'écran, sons, barre de titre néon,
+ style néon des fenêtres, menu de démarrage et Suivi du thème. Les choix perso sont respectés.
+

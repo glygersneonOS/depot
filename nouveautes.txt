@@ -1,0 +1,2 @@
+NOUVEAU|Notes néon : étiquettes Projets, Perso et Idées, recherche, gras, italique, couleurs et cases à cocher cliquables.
+NOUVEAU|Tes notes s'enregistrent toutes seules. Ctrl+N pour une nouvelle note, Ctrl+F pour chercher.
